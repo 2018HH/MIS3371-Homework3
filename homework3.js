@@ -1,9 +1,9 @@
 /* 
  Name: Hailey Haiducek
- File: homework2.js
- Date Created: 6/24/2026
- Date Updated: 6/26/2026
- Purpose: External JavaScript file - Homework 2
+ File: homework3.js
+ Date Created: 6/30/2026
+ Date Updated: 
+ Purpose: External JavaScript file - Homework 3
 */
 
 /* https://profjake.w3spaces.com/MIS3371/homework1.html and https://www.w3schools.com/css/default.asp was used as a template. I used ChatGpt to debug and clean up function usage, particularly with the Review Button*/
